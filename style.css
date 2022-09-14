@@ -1,0 +1,26 @@
+#p1{
+    height: 50px;
+    width: 250px;
+    background-color: rgb(190, 190, 190);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    border: 2px solid gray;
+}
+.Nums{
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    width: 50px;
+    height: 50px;
+    border-style: none;
+    margin: 5px;
+    background-color: rgb(190, 190, 190);
+}
+#draw{
+    width: 115px;
+}
